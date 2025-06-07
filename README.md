@@ -2,14 +2,14 @@
 - Tailwindcss
 - Menggunakan Laravel breeze untuk login,register dan dashboard
 - Menggunakan Sqlite 
-- Jalankan `npm run dev` untuk memulai 
-
-Untuk fitur register sudah menggunakan verifikasi email, agar bisa login harus verifikasi email terlebih dahulu
-data login sudah tersimpan ke database
-login bisa menggunakan email atau username 
-sudah ada fitur update untuk data login
-di backend belum ada fitur promosi, banner dan message
-di frond end belum ada tampilan banner dan promosi
-Menu sudah bisa Berpindah dari menu satu ke menu lainnya
-sudah ada form contact us tapi belum bisa di isi data
-Tampilan web sudah responsive untuk berbagai ukuran layout
+- Jalankan `npm run dev` untuk memulai
+- 
+- Untuk fitur register sudah menggunakan verifikasi email, agar bisa login harus verifikasi email terlebih dahulu
+- data login sudah tersimpan ke database
+- login bisa menggunakan email atau username 
+- sudah ada fitur update untuk data login
+- di backend belum ada fitur promosi, banner dan message
+- di frond end belum ada tampilan banner dan promosi
+- Menu sudah bisa Berpindah dari menu satu ke menu lainnya
+- sudah ada form contact us tapi belum bisa di isi data
+- Tampilan web sudah responsive untuk berbagai ukuran layout
